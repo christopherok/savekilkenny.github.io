@@ -11,8 +11,8 @@ email: savekilkenny@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   SaveKilkenny Open Data Project. Provide an open repository of
   Kilkenny Related Data.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/savekilkenny.github.io" # the subpath of your site, e.g. /blog
+url: "http://christopherok.github.io" # the base hostname & protocol for your site
 twitter_username: savekilkenny
 github_username:  savekilkenny
 
